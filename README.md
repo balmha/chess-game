@@ -5,7 +5,7 @@ A sleek and modern chess game built using **React**, **Vite**, and **Tailwind CS
 The intuitive user interface is designed to enhance the player experience, letting users focus entirely on strategy. Optimized for both desktop and mobile platforms, this chess game is perfect for casual and competitive matches.  
 
 ---
-<img src="https://github.com/user-attachments/assets/4ca19524-085c-4d5b-b341-49ed5391c786" />
+<img src="chess-sample.png" />
 
 ## 🛠️ Features  
 
