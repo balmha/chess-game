@@ -34,7 +34,7 @@ jobs:
       - name: Install and Build 🔧 # Build the Project
         run: |
           npm install
-          npm run build
+          npm run dev
   
       - name: configure aws credentials
         uses: aws-actions/configure-aws-credentials@v3
